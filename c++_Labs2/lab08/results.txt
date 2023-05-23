@@ -1,0 +1,5 @@
+21, Korobov, Glib, Aleksiovich, 121, 75, 4
+37, Zaiets, Nikita, Sergiovich, 121, 81, 4
+12, Oleksandr, Pavlyk, Andriyovych, 121, 60, 3
+14, Bilokur, Mykhailo, Romanovych, 121, 85, 4
+17, Timofeeva, Anastasiia, Ivanovna, 121 71, 3+
